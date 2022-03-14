@@ -14,7 +14,7 @@ const defaultMenu = {
 🔸 Github: [ RELEASING SOON ]
 
 
-     〘 *WIZARD SER* 〙
+     〘 *CHINTU BOT* 〙
 %readmore`.trimStart(),
   header: '┌─〔 %category 〕',
   body: '├ %cmd',
@@ -197,8 +197,8 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
             {
               "rows": [
                 {
-                  "title": `WIZARD SER`,
-                  "description": "Wizard ser git link",
+                  "title": `CHINTU BOT`,
+                  "description": "Chintu Bot git link",
                   "rowId": ".git"
                 }, {
                   "title": "💻Game",
